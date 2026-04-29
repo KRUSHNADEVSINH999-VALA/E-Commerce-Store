@@ -227,7 +227,7 @@ This project was developed as part of an Activity Learning Assignment, demonstra
 | Name | Enrollment No | Role |
 |------|-------------|------|
 | KRUSHNADEVSINH G. VALA | 240905090058 | Backend Development, Database Design, UI,  Frontend Connectivity, Debugging, Responsive - Grid Line CSS  |
-| RUDRADEVSINH S. SOLANKI | 240905090058 | Frontend Design, UX, Product Finding, Price maker, Theme Oriented, Research |
+| RUDRADEVSINH S. SOLANKI | 240905090047 | Frontend Design, UX, Product Finding, Price maker, Theme Oriented, Research |
 
 ---
 

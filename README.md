@@ -29,6 +29,83 @@ The project uses a MySQL database named `ecommerce_db` with the following key ta
   - **Delete**: Remove outdated or out-of-stock products.
 - **Order Tracking**: Manage and review customer orders.
 
+## 🔐 Session Management
+The project uses PHP sessions to manage:
+- User authentication (login/logout)
+- Admin access control
+- Cart data handling during user interaction
+
+## 📸 Project Screenshots
+
+### 🔹 Landing Page
+![Landing Page 1](assets/screenshots/landing1.png)
+![Landing Page 2](assets/screenshots/landing2.png)
+
+---
+
+### 🔹 Role Selection
+![Role Selection](assets/screenshots/role-selection.png)
+
+---
+
+## 🔐 Admin Panel
+
+### Authentication
+![Admin Login](assets/screenshots/admin-login.png)
+
+### Dashboard
+![Admin Dashboard](assets/screenshots/admin-dashboard.png)
+
+### Product Management
+![Product Management](assets/screenshots/admin-products.png)
+
+### Orders Management
+![Orders Management](assets/screenshots/admin-orders.png)
+
+### Users Management
+![Users Management](assets/screenshots/admin-users.png)
+
+---
+
+## 👤 User Panel
+
+### Authentication
+![User Login](assets/screenshots/user-login.png)
+![User Signup](assets/screenshots/user-signup.png)
+
+### Home Page
+![Home Page](assets/screenshots/home.png)
+
+### Items Page
+![Items Page](assets/screenshots/items.png)
+
+### Wishlist
+![Wishlist](assets/screenshots/wishlist.png)
+
+### Product Details
+![Product Details](assets/screenshots/product-details.png)
+
+### Shopping Cart
+![Cart](assets/screenshots/cart.png)
+
+### Order Confirmation
+![Order Confirmation](assets/screenshots/order-confirm.png)
+
+### Help Center
+![Help Center](assets/screenshots/help.png)
+
+### Privacy Policy
+![Privacy Policy](assets/screenshots/privacy.png)
+
+### Terms & Conditions
+![Terms](assets/screenshots/terms.png)
+
+---
+
+## 🛢️ Database (phpMyAdmin)
+
+![Database Structure](assets/screenshots/database.png)
+
 ## 🛠️ Steps to Run Locally
 1. **Environment Setup**: Install XAMPP or WAMP server.
 2. **Database Import**:
